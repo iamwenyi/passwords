@@ -1,2 +1,2 @@
 # passwords
-code that stores user IDs and passwords as a system
+code that stores user IDs and passwords in a csv file
