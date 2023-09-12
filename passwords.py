@@ -88,6 +88,8 @@ def pw_new():
     return password
 
 def lookfor_id(csv_list):
+    csv_list = list_data()
+    
     tryagain = True
     userID = ""
     x = 0
